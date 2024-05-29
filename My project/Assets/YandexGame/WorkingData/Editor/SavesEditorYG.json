@@ -1,0 +1,55 @@
+{
+    "idSave": 6,
+    "isFirstSession": false,
+    "language": "en",
+    "promptDone": false,
+    "scoreData": {
+        "Score": 100
+    },
+    "characterData": [
+        {
+            "Name": "KNIGHT BASIC",
+            "IsPurchased": true,
+            "IsSelected": true
+        },
+        {
+            "Name": "KNIGHT RED",
+            "IsPurchased": false,
+            "IsSelected": false
+        },
+        {
+            "Name": "KNIGHT BLUE",
+            "IsPurchased": false,
+            "IsSelected": false
+        },
+        {
+            "Name": "KNIGHT VIOLET",
+            "IsPurchased": false,
+            "IsSelected": false
+        },
+        {
+            "Name": "KNIGHT VANDERLORD",
+            "IsPurchased": false,
+            "IsSelected": false
+        },
+        {
+            "Name": "KNIGHT COMMON",
+            "IsPurchased": false,
+            "IsSelected": false
+        },
+        {
+            "Name": "KNIGHT DIAMOND",
+            "IsPurchased": false,
+            "IsSelected": false
+        }
+    ],
+    "gameRecordData": {
+        "scoreRecord": 0
+    },
+    "tutorialCompleted": true,
+    "isFirstTime": true,
+    "isMovileInput": false,
+    "audioData": {
+        "isSoundOn": false
+    }
+}
